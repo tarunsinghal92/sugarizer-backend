@@ -24,9 +24,9 @@ Please follow the following steps in order to setup the dashboard.
 ## Running the Program
 
 Run following command in `terminal`.(You can also run it deamon mode)
-'''
-$ node app.js 
-'''
+
+>$ node app.js 
+
 Then navigate to `http://localhost:8100` to view the dashboard.
 
 ## License
