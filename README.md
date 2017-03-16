@@ -13,11 +13,11 @@ Please follow the following steps in order to setup the dashboard.
 
 * Create a clone wherever you want.
 
->'$ git clone https://github.com/tarunsinghal92/sugarizer-backend'
+>$ git clone https://github.com/tarunsinghal92/sugarizer-backend
 
 * Install the required dependencies.
 
->'$ npm install'
+>$ npm install
 
 * Modifiy the environment variables in env.json file.
  
@@ -25,7 +25,7 @@ Please follow the following steps in order to setup the dashboard.
 
 Run following command in `terminal`.(You can also run it deamon mode)
 
->'$ node app.js '
+>$ node app.js
 
 Then navigate to `http://localhost:8100` to view the dashboard.
 
